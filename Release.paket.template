@@ -1,0 +1,9 @@
+type file
+authors Andrey Baboshin
+id OracleLoader
+description 
+	OracleLoader
+files
+    build/OracleLoader.dll ==> lib
+dependencies
+    Oracle.ManagedDataAccess

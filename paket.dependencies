@@ -1,0 +1,6 @@
+source https://nuget.org/api/v2
+
+nuget Oracle.ManagedDataAccess
+nuget FAKE
+nuget FAKE.Lib
+nuget FSharp.Core
